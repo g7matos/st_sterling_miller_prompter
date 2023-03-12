@@ -1,0 +1,5 @@
+openaiapikey.txt
+secrets.toml
+key_openai.txt
+key_pinecone.txt
+*.json

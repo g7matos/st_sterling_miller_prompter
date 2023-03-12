@@ -1,0 +1,1 @@
+Extract the main lessons that are given in the followin excerpt: <<INPUT>>
